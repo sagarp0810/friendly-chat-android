@@ -2,8 +2,8 @@ package liveharshit.firebase.google.com.friendlychat;
 
 public class FriendlyMessage {
 
-    private String text;
-    private String name;
+    private String text;        // A variable to store the message text
+    private String name;       
     private String photoUrl;
 
     public FriendlyMessage() {
